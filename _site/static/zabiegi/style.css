@@ -1,0 +1,28 @@
+body {
+    margin-left: 25%;
+    font-family: "Yrsa", serif;
+    font-weight: 300;
+    margin-right: 10%;
+    line-height:1.6;
+    font-size: calc(10px + .5vw);
+    color:#454545;
+}
+a {
+    text-decoration: none;
+    color: #454545;
+}
+#main {
+    overflow: hidden;
+    height: 100%;
+}
+
+.sidenav .active {
+    color: #fff;
+}
+
+@media screen and (max-width: 700px) {
+    body {
+        margin-left: 10%;
+        margin-right: 10; 
+    }
+}

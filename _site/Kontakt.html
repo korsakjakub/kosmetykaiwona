@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 
-    <title>Atelier Urody Iwona Korsak</title>
+    <title>Kontakt</title>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- css -->
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet"> 
 <link rel="stylesheet" type="text/css" href="static/home/style.css">
 <link rel="stylesheet" type="text/css" href="static/home/top_nav.css">
 <link rel="stylesheet" type="text/css" href="static/global/footer.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-
+<link rel="stylesheet" type="text/css" href="static/home/table.css"><link rel="stylesheet" type="text/css" href="static/home/map.css">
 
 <!-- scripts -->
 <script src="static/home/hamburger.js"></script>
@@ -31,11 +31,11 @@
         <nav>
         <div class="topnav" id="myTopnav">
 
-            <a href="/" class="active">Home</a>
+            <a href="/" class="">Home</a>
             <a href="/Cennik" class="">Cennik</a>
             <a href="/Galeria" class="">Galeria</a>
             <a href="/O nas" class="">O nas</a>
-            <a href="/Kontakt" class="">Kontakt</a>
+            <a href="/Kontakt" class="active">Kontakt</a>
             <link rel="stylesheet" type="text/css" href="../../../static/global/facebook.css">
 <a id="facebook" href="https://fb.me/atelieriwonakorsak"><i id="facebook" class="fab fa-facebook"></i></a>
 
@@ -45,22 +45,54 @@
         </header>
     </div>
 
-    <div class="w3-row-padding" style="margin-bottom:128px">
-  <div class="w3-half">
-      <a href="/zabiegi/Drenaż Limfatyczny" ><img src="static/home/images/drenaz_limfatyczny_1.jpg" style="width:100%" alt="Drenaz Limfatyczny"></a>
-      <a href="/zabiegi/Endermologia"><img src="static/home/images/endermologia.jpg" style="width:100%" alt="endermologia"/></a>
-      <a href="/zabiegi/Zabiegi_na_twarz"><img src="static/home/images/zabiegi_na_twarz.jpg" style="width:100%" alt="Zabiegi na twarz"/></a>
-      <a href="/zabiegi/Masaż"><img src="static/home/images/masaz.jpg" style="width:100%" alt="Studio masażu i smukłej sylwetki"/></a>
-      <a href="/zabiegi/Przedłużanie Rzęs"><img src="static/home/images/przedluzanie_rzes.jpg" style="width:100%" alt="Zagęszczanie i przedłużanie rzęs"/></a>
-  </div>
+    <script>
+    // Initialize and add the map
+    function initMap() {
+    // The location of Atelier Urody
+        //52.756656, 15.235355
+    var atelier = {lat: 52.756656, lng: 15.235355};
+    var map = new google.maps.Map(
+        document.getElementById('map'), {zoom: 15, center: atelier});
+        var marker = new google.maps.Marker({position: atelier, map: map});
+    }
+</script>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDEntcF1J7yh_SyW25_8lYm4G5N5ReHb7I&callback=initMap">
+</script>
 
-  <div class="w3-half">
-      <a href="/zabiegi/Fale Radiowe"><img src="static/home/images/zabieg_rf.jpg" style="width:100%" alt="Fale radiowe"/></a>
-      <a href="/zabiegi/Stylizacja Paznokci"><img src="static/home/images/paznokcie.jpg" style="width:100%" alt="Stylizacja paznokci"/></a>
-      <a href="/zabiegi/Poradnictwo Dietetyczne"><img src="static/home/images/poradnictwo_dietetyczne.jpg" style="width:100%" alt="Poradnictwo dietetyczne"/></a>
-      <a href="/zabiegi/Mezoterapia Mikroigłowa"><img src="static/home/images/mezoterapia_mikroiglowa.jpg" style="width:100%" alt="Mezoterapia mikroigłowa"/></a>
-      <a href="/zabiegi/Medycyna Estetyczna"><img src="static/home/images/medycyna_estetyczna.jpg" style="width:100%" alt="Medycyna estetyczna"/></a>
-  </div>
+<h2>Atelier Iwona Korsak usługi-szkolenia</h2>
+
+<p>ul. Owocowa 3, 66-400 Gorzów Wlkp., NIP 599-169-76-18, REGON 211059228</p>
+
+<p>e-mail: <a href="mailto:iwonakorsak@gmail.com">iwonakorsak@gmail.com</a></p>
+
+<table style="width:100%; margin-bottom:100px">
+    <tr>
+        <td>Gabinet kosmetyczny</td>
+        <td>Iwona Korsak</td>
+        <td>tel. <a href="tel:0048608419413">+48 608 419 413</a></td>
+    </tr>
+
+    <tr>
+        <td>Gabinet dietetyczny</td>
+        <td>Iwona Korsak</td>
+        <td>tel. <a href="tel:0048608419413">+48 608 419 413</a></td>
+    </tr>
+
+    <tr>
+        <td>Gabinet masażu</td>
+        <td>Grażyna Łagoda</td>
+        <td>tel. <a href="tel:0048785634119">+48 785 634 119</a></td>
+    </tr>
+
+    <tr>
+        <td>Poradnictwo psychologiczne</td>
+        <td>Jolanta Szynkarczuk</td>
+        <td>tel. <a href="tel:0048693298698">+48 693 298 698</a></td>
+    </tr>
+</table>
+
+<div id="map" style="margin-bottom:100px">
 </div>
 
 
