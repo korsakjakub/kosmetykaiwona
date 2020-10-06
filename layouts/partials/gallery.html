@@ -1,0 +1,10 @@
+{{ $styleTemplate := resources.Get "css/gallery.css" }}
+{{ $style := $styleTemplate | resources.ExecuteAsTemplate "css/gallery.css" . }}
+<link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
+<div class="gallery cf">
+		  {{ range .Site.Data.galeria }}
+		  <div>
+		      <img src="/images/galeria/{{ .href }}"/>
+		  </div>
+		  {{ end }}
+</div>

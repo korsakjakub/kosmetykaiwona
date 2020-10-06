@@ -1,0 +1,32 @@
+drenaz-limfatyczny:
+        img: drenaz_limfatyczny.jpg
+        alt: Drenaż Limfatyczny
+        href: drenaz-limfatyczny
+endermologia:
+        img: endermologia.jpg
+        alt: Endermologia
+        href: endermologia
+masaz:
+        img: masaz.jpg
+        alt: Studio masażu i smukłej sylwetki
+        href: masaz
+fale-radiowe:
+        img: zabieg_rf.jpg
+        alt: Fale radiowe
+        href: fale_radiowe
+paznokcie:
+        img: paznokcie.jpg
+        alt: Stylizacja paznokci
+        href: stylizacja-paznokci
+poradnictwo-dietetyczne:
+        img: poradnictwo_dietetyczne.jpg
+        alt: Poradnictwo dietetyczne
+        href: poradnictwo-dietetyczne
+mezoterapia:
+        img: mezoterapia_mikroiglowa.jpg
+        alt: Mezoterapia mikroigłowa
+        href: mezoterapia
+twarz:
+        img: zabiegi_na_twarz.jpg
+        alt: Zabiegi na twarz
+        href: zabiegi-na-twarz

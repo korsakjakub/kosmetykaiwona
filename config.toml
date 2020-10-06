@@ -1,0 +1,39 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Atelier Iwona Korsak"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+  mainMargin = 10
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+		pre = "home"
+		url = "/"
+		weight = 1
+  [[menu.main]]
+    name = "Zabiegi"
+		pre = "edit"
+		url = "/zabiegi/"
+		weight = 2
+  [[menu.main]]
+    name = "Cennik"
+		pre = "dollar-sign"
+		url = "/cennik/"
+		weight = 3
+  [[menu.main]]
+    name = "Galeria"
+		pre = "image"
+		url = "/galeria/"
+		weight = 4
+  [[menu.main]]
+    name = "O nas"
+		pre = "users"
+		url = "/o-nas/"
+		weight = 5
+  [[menu.main]]
+    name = "Kontakt"
+		pre = "phone"
+		url = "/kontakt/"
+		weight = 6

@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="pure-g">
+{{ range .Site.Data.homeZabiegi }}
+<a class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3" href="/zabiegi/{{ .href }}" ><img src="images/home/{{ .img }}" style="width:100%" alt="{{ .alt }}"></a>
+{{ end }}
+</div>
+{{ end }}
