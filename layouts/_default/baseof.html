@@ -7,16 +7,15 @@
     <h1 href="/">ATELIER URODY</h1>
 		<h1>Iwona Korsak</h1>
   </div>
-  <nav style="text-align:center; margin-bottom:5vh;">
-    {{ partial "nav.html" . }}
-  </nav>
 </header>
+{{ partial "nav.html" . }}
     <div class="container">
 				{{ partial "breadcrumb.html" . }}
 				<main id="main">
 				{{ block "main" . }}{{ end }}
 				</main>
 		</div>
+		{{ partial "toggleScript.html" }}
 </body>
 {{ partial "footer.html" . }}
 </html>

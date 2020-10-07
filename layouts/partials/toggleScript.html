@@ -1,0 +1,16 @@
+<script>
+		function toggle() {
+		var menu = document.getElementById("menu")
+		var toggleButton = document.getElementById("menu-toggle-icon")
+		console.log(toggleButton.classList)
+		if (menu.style.display === "none") {
+				menu.style.display = "block";
+				toggleButton.classList.remove("fa-arrow-right")
+				toggleButton.classList.add("fa-arrow-left")
+		} else {
+				menu.style.display = "none";
+				toggleButton.classList.remove("fa-arrow-left")
+				toggleButton.classList.add("fa-arrow-right")
+		}
+}
+</script>
