@@ -4,75 +4,99 @@ twarz:
         1:
             name: Mezoterapia mikroigłowa
             cena: 350 zł
+            href: zabiegi-na-twarz
         2:
             name: Zabieg Tradycyjny Thalgo
             cena: 130 zł
+            href: zabiegi-na-twarz/zabieg-tradycyjny-thalgo/
         3:
             name: Zabieg Thalgo na okolice oczu
             cena: 80 zł
+            href: zabiegi-na-twarz
         4:
             name: Thalgo - Re-Balancing Treatment
             cena: 120 zł
+            href: zabiegi-na-twarz/thalgo-re-balancing-treatment/
         5:
             name: Thalgo - Thalgodermyl
             cena: 140 zł
+            href: zabiegi-na-twarz/thalgo-thalgodermyl/
         6:
             name: Thalgo - Hydra Moisture Source Treatment
             cena: 180 zł
+            href: zabiegi-na-twarz/thalgo-hydra-moisture-source-treatment/
         7:
             name: Thalgo - Absolute Rehydrating Treatment
             cena: 200 zł
+            href: zabiegi-na-twarz/thalgo-absolute-rehydrating-treatment/
         8:
             name: Thalgo - Pure Collagen Velvet Mask
             cena: 200 zł
+            href: zabiegi-na-twarz/thalgo-pure-collagen-velvet-mask/
         9:
             name: Thalgo - Pure Collagen Velvet Mask + Seve Marine
             cena: 200 zł
+            href: zabiegi-na-twarz/thalgo-pure-collagen-velvet-mask/
         10:
             name: Thalgo - Cold Marine Program
             cena: 150 zł
+            href: zabiegi-na-twarz/thalgo-cold-marine-program/
         11:
             name: Thalgo - Thalgoderm Mask
             cena: 150 zł
+            href: zabiegi-na-twarz/thalgo-thalgoderm-mask/
         12:
             name: Thalgo – M-Ceutic
             cena: 180 zł
+            href: zabiegi-na-twarz/
         13:
             name: Thalgo - Thalgolift
             cena: 130 zł
+            href: zabiegi-na-twarz/thalgo-thalgolift/
         14:
-            name: MASAŻ TWARZY PĘDZELKOWY
+            name: Masaż twarzy pędzelkowy
             cena: 45 zł
+            href: zabiegi-na-twarz/
         15:
-            name: MASAŻ TWARZY STEMPLAMI
+            name: Masaż twarzy stemplami
             cena: 45 zł
+            href: zabiegi-na-twarz/
         16:
-            name: MASAŻ TWARZY KAMIENIAMI
+            name: Masaż twarzy kamieniami
             cena: 45 zł
+            href: zabiegi-na-twarz/
         17:
-            name: HENNA RZĘSY I BRWI Z REGULACJĄ
+            name: Henna rzęsy i brwi z regulacją
             cena: 20 zł
+            href: zabiegi-na-twarz/
         18:
-            name: HENNA BRWI Z REGULACJĄ
+            name: Henna brwi z regulacją
             cena: 15 zł
+            href: zabiegi-na-twarz/
         19:
-            name: DEPILACJA CIEPŁYM WOSKIEM - ŁYDKI UDA
+            name: Depilacja ciepłym woskiem - łydki uda
             cena: 75 zł
+            href: zabiegi-na-twarz/
         20:
-            name: DEPILACJA CIEPŁYM WOSKIEM - PACHY
+            name: Depilacja ciepłym woskiem - pachy
             cena: 40 zł
+            href: zabiegi-na-twarz/
         21:
-            name: DEPILACJA CIEPŁYM WOSKIEM - BIKINI
+            name: Depilacja cieþłym woskiem - bikini
             cena: 50 zł
+            href: zabiegi-na-twarz/
         22:
             name: Peeling kawitacyjny
             cena: 120 zł
+            href: zabiegi-na-twarz/peeling-kawitacyjny/
         23:
-            name: Peeling kwasowy	100-
-            cena: 120 zł
+            name: Peeling kwasowy
+            cena: 100-120 zł
+            href: zabiegi-na-twarz/peeling-migdalowy/
         24:
             name: Mikrodermabrazja
             cena: 150 zł
+            href: zabiegi-na-twarz/mikrodermabrazja/
         25:
             name: Masaż hawajski
             cena: 120 zł
