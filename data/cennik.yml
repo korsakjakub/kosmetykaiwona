@@ -143,8 +143,8 @@ twarz:
             name: Peeling (kawowy, cukrowy, owocowy, czekoladowy, borowinowy)	60-
             cena: 80 zł
         40:
-            name: ZABIEG ODMŁADZAJĄCY I ROZŚWIETLAJĄCY CIAŁO -
-            cena: koloidalne złoto	150 zł
+            name: ZABIEG ODMŁADZAJĄCY I ROZŚWIETLAJĄCY CIAŁO - koloidalne złoto	
+            cena: 150 zł
         41:
             name: ZABIEG UJĘDRNIAJĄCY I MODELUJĄCY BIUST
             cena: 70 zł
