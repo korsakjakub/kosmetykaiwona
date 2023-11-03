@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
-{{ partial "head.html" . }}
-<body>
-<header class="header">
-  <div class="logo">
-    <h1 href="/">ATELIER URODY</h1>
-		<h1>Iwona Korsak</h1>
-  </div>
-</header>
-{{ partial "nav.html" . }}
+  {{ partial "head.html" . }}
+  <body>
+    <header class="header">
+      <div class="logo">
+	<h1 href="/">ATELIER URODY</h1>
+	<h1>Iwona Korsak</h1>
+      </div>
+    </header>
+    {{ partial "nav.html" . }}
     <div class="container">
-				{{ partial "breadcrumb.html" . }}
-				<main id="main">
-				{{ block "main" . }}{{ end }}
-				</main>
-		</div>
-		{{ partial "toggleScript.html" }}
-</body>
-{{ partial "footer.html" . }}
+      {{ partial "breadcrumb.html" . }}
+      <main id="main">
+	{{ block "main" . }}{{ end }}
+      </main>
+    </div>
+    {{ partial "toggleScript.html" }}
+  </body>
+  {{ partial "footer.html" . }}
 </html>

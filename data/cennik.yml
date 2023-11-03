@@ -1,226 +1,163 @@
 twarz:
-    name: Zabiegi na twarz
-    sub:
-        1:
-            name: Mezoterapia mikroigłowa
-            cena: 350 zł
-            href: zabiegi-na-twarz
-        2:
-            name: Zabieg Tradycyjny Thalgo
-            cena: 130 zł
-            href: zabiegi-na-twarz/zabieg-tradycyjny-thalgo/
-        3:
-            name: Zabieg Thalgo na okolice oczu
-            cena: 80 zł
-            href: zabiegi-na-twarz
-        4:
-            name: Thalgo - Re-Balancing Treatment
-            cena: 120 zł
-            href: zabiegi-na-twarz/thalgo-re-balancing-treatment/
-        5:
-            name: Thalgo - Thalgodermyl
-            cena: 140 zł
-            href: zabiegi-na-twarz/thalgo-thalgodermyl/
-        6:
-            name: Thalgo - Hydra Moisture Source Treatment
-            cena: 180 zł
-            href: zabiegi-na-twarz/thalgo-hydra-moisture-source-treatment/
-        7:
-            name: Thalgo - Absolute Rehydrating Treatment
-            cena: 200 zł
-            href: zabiegi-na-twarz/thalgo-absolute-rehydrating-treatment/
-        8:
-            name: Thalgo - Pure Collagen Velvet Mask
-            cena: 200 zł
-            href: zabiegi-na-twarz/thalgo-pure-collagen-velvet-mask/
-        9:
-            name: Thalgo - Pure Collagen Velvet Mask + Seve Marine
-            cena: 200 zł
-            href: zabiegi-na-twarz/thalgo-pure-collagen-velvet-mask/
-        10:
-            name: Thalgo - Cold Marine Program
-            cena: 150 zł
-            href: zabiegi-na-twarz/thalgo-cold-marine-program/
-        11:
-            name: Thalgo - Thalgoderm Mask
-            cena: 150 zł
-            href: zabiegi-na-twarz/thalgo-thalgoderm-mask/
-        12:
-            name: Thalgo – M-Ceutic
-            cena: 180 zł
-            href: zabiegi-na-twarz/
-        13:
-            name: Thalgo - Thalgolift
-            cena: 130 zł
-            href: zabiegi-na-twarz/thalgo-thalgolift/
-        14:
-            name: Masaż twarzy pędzelkowy
-            cena: 45 zł
-            href: zabiegi-na-twarz/
-        15:
-            name: Masaż twarzy stemplami
-            cena: 45 zł
-            href: zabiegi-na-twarz/
-        16:
-            name: Masaż twarzy kamieniami
-            cena: 45 zł
-            href: zabiegi-na-twarz/
-        17:
-            name: Henna rzęsy i brwi z regulacją
-            cena: 20 zł
-            href: zabiegi-na-twarz/
-        18:
-            name: Henna brwi z regulacją
-            cena: 15 zł
-            href: zabiegi-na-twarz/
-        19:
-            name: Depilacja ciepłym woskiem - łydki uda
-            cena: 75 zł
-            href: zabiegi-na-twarz/
-        20:
-            name: Depilacja ciepłym woskiem - pachy
-            cena: 40 zł
-            href: zabiegi-na-twarz/
-        21:
-            name: Depilacja cieþłym woskiem - bikini
-            cena: 50 zł
-            href: zabiegi-na-twarz/
-        22:
-            name: Peeling kawitacyjny
-            cena: 120 zł
-            href: zabiegi-na-twarz/peeling-kawitacyjny/
-        23:
-            name: Peeling kwasowy
-            cena: 100-120 zł
-            href: zabiegi-na-twarz/peeling-migdalowy/
-        24:
-            name: Mikrodermabrazja
-            cena: 150 zł
-            href: zabiegi-na-twarz/mikrodermabrazja/
-        25:
-            name: Masaż hawajski
-            cena: 120 zł
-        26:
-            name: Masaż klasyczny - całościowy
-            cena: 100 zł
-        27:
-            name: Masaż klasyczny - częściowy
-            cena: 80 zł
-        28:
-            name: Masaż relaksacyjny
-            cena: 120 zł
-        29:
-            name: Masaż wyszczuplający
-            cena: 60 zł
-        30:
-            name: Masaż leczniczy
-            cena: 80 zł
-        31:
-            name: Masaż limfatyczny
-            cena: 80zł - 120zł
-        32:
-            name: Masaż kamieniami
-            cena: 100 zł
-        33:
-            name: Zabieg czekoladowo - odżywczy
-            cena: 150 zł
-        34:
-            name: Zabieg miodowy
-            cena: 200 zł
-        35:
-            name: Błoto z morza Martwego
-            cena: 190 zł
-        36:
-            name: Reflexologia
-            cena: 160 zł
-        37:
-            name: Zabieg Algowy - Thalgo
-            cena: 200 zł
-        38:
-            name: Zabieg Termalny - Borowinowy
-            cena: 120 zł
-        39:
-            name: Peeling (kawowy, cukrowy, owocowy, czekoladowy, borowinowy)	60-
-            cena: 80 zł
-        40:
-            name: ZABIEG ODMŁADZAJĄCY I ROZŚWIETLAJĄCY CIAŁO - koloidalne złoto	
-            cena: 150 zł
-        41:
-            name: ZABIEG UJĘDRNIAJĄCY I MODELUJĄCY BIUST
-            cena: 70 zł
-        42:
-            name: ZABIEG CZERWONE WINO - zabieg odmładzająco-ujędrniający
-            cena: 150 zł
+    nazwa: Zabiegi na twarz
+    zabiegi:
+      - nazwa: Mezoterapia mikroigłowa
+        cena: 350 zł
+        href: zabiegi-na-twarz
+      - nazwa: Zabieg Tradycyjny Thalgo
+        cena: 130 zł
+        href: zabiegi-na-twarz/zabieg-tradycyjny-thalgo/
+      - nazwa: Zabieg Thalgo na okolice oczu
+        cena: 80 zł
+        href: zabiegi-na-twarz
+      - nazwa: Thalgo - Re-Balancing Treatment
+        cena: 120 zł
+        href: zabiegi-na-twarz/thalgo-re-balancing-treatment/
+      - nazwa: Thalgo - Thalgodermyl
+        cena: 140 zł
+        href: zabiegi-na-twarz/thalgo-thalgodermyl/
+      - nazwa: Thalgo - Hydra Moisture Source Treatment
+        cena: 180 zł
+        href: zabiegi-na-twarz/thalgo-hydra-moisture-source-treatment/
+      - nazwa: Thalgo - Absolute Rehydrating Treatment
+        cena: 200 zł
+        href: zabiegi-na-twarz/thalgo-absolute-rehydrating-treatment/
+      - nazwa: Thalgo - Pure Collagen Velvet Mask
+        cena: 200 zł
+        href: zabiegi-na-twarz/thalgo-pure-collagen-velvet-mask/
+      - nazwa: Thalgo - Pure Collagen Velvet Mask + Seve Marine
+        cena: 200 zł
+        href: zabiegi-na-twarz/thalgo-pure-collagen-velvet-mask/
+      - nazwa: Thalgo - Cold Marine Program
+        cena: 150 zł
+        href: zabiegi-na-twarz/thalgo-cold-marine-program/
+      - nazwa: Thalgo - Thalgoderm Mask
+        cena: 150 zł
+        href: zabiegi-na-twarz/thalgo-thalgoderm-mask/
+      - nazwa: Thalgo – M-Ceutic
+        cena: 180 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Thalgo - Thalgolift
+        cena: 130 zł
+        href: zabiegi-na-twarz/thalgo-thalgolift/
+      - nazwa: Masaż twarzy pędzelkowy
+        cena: 45 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Masaż twarzy stemplami
+        cena: 45 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Masaż twarzy kamieniami
+        cena: 45 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Henna rzęsy i brwi z regulacją
+        cena: 20 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Henna brwi z regulacją
+        cena: 15 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Depilacja ciepłym woskiem - łydki uda
+        cena: 75 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Depilacja ciepłym woskiem - pachy
+        cena: 40 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Depilacja cieþłym woskiem - bikini
+        cena: 50 zł
+        href: zabiegi-na-twarz/
+      - nazwa: Peeling kawitacyjny
+        cena: 120 zł
+        href: zabiegi-na-twarz/peeling-kawitacyjny/
+      - nazwa: Peeling kwasowy
+        cena: 100-120 zł
+        href: zabiegi-na-twarz/peeling-migdalowy/
+      - nazwa: Mikrodermabrazja
+        cena: 150 zł
+        href: zabiegi-na-twarz/mikrodermabrazja/
+      - nazwa: Masaż hawajski
+        cena: 120 zł
+      - nazwa: Masaż klasyczny - całościowy
+        cena: 100 zł
+      - nazwa: Masaż klasyczny - częściowy
+        cena: 80 zł
+      - nazwa: Masaż relaksacyjny
+        cena: 120 zł
+      - nazwa: Masaż wyszczuplający
+        cena: 60 zł
+      - nazwa: Masaż leczniczy
+        cena: 80 zł
+      - nazwa: Masaż limfatyczny
+        cena: 80zł - 120zł
+      - nazwa: Masaż kamieniami
+        cena: 100 zł
+      - nazwa: Zabieg czekoladowo - odżywczy
+        cena: 150 zł
+      - nazwa: Zabieg miodowy
+        cena: 200 zł
+      - nazwa: Błoto z morza Martwego
+        cena: 190 zł
+      - nazwa: Reflexologia
+        cena: 160 zł
+      - nazwa: Zabieg Algowy - Thalgo
+        cena: 200 zł
+      - nazwa: Zabieg Termalny - Borowinowy
+        cena: 120 zł
+      - nazwa: Peeling (kawowy, cukrowy, owocowy, czekoladowy, borowinowy)
+        cena: 60 - 80 zł
+      - nazwa: Zabieg odmładzający i rozświetlający ciało - koloidalne złoto	
+        cena: 150 zł
+      - nazwa: Zabieg ujędrniający i modelujący biust
+        cena: 70 zł
+      - nazwa: Zabieg czerwone wino - zabieg odmładzająco-ujędrniający
+        cena: 150 zł
 fale-radiowe:
-    name: Fale radiowe
-    sub:
-        1:
-            name: Lifting wokół oczu
-            cena: 80 zł
-        2:
-            name: Lifting twarzy
-            cena: 160 zł
-        3:
-            name: Lifting twarzy, szyi, dekoltu
-            cena: 180 zł
-        4:
-            name: Pojędrnienie dekoltu
-            cena: 80 zł
-        5:
-            name: Wyszczuplenie, pojędrnienie brzucha
-            cena: 80 zł
-        6:
-            name: Redukcja cellulitu na udach
-            cena: 100 zł
-        7:
-            name: Uda + pośladki
-            cena: 150 zł
-        8:
-            name: ramiona
-            cena: 100 zł
+    nazwa: Fale radiowe
+    zabiegi:
+      - nazwa: Lifting wokół oczu
+        cena: 80 zł
+      - nazwa: Lifting twarzy
+        cena: 160 zł
+      - nazwa: Lifting twarzy, szyi, dekoltu
+        cena: 180 zł
+      - nazwa: Pojędrnienie dekoltu
+        cena: 80 zł
+      - nazwa: Wyszczuplenie, pojędrnienie brzucha
+        cena: 80 zł
+      - nazwa: Redukcja cellulitu na udach
+        cena: 100 zł
+      - nazwa: Uda + pośladki
+        cena: 150 zł
+      - nazwa: Ramiona
+        cena: 100 zł
 
 paznokcie:
-    name: Stylzacja paznokci
-    sub:
-        1:
-            name: Manicure naturalny (wellness) + masaż dłoni
-            cena: 40 zł
-        2:
-            name: Manicure naturalny (wellness) + zabieg parafinowy + masaż dłoni
-            cena: 70 zł
-        3:
-            name: Przedłużenie naturalnego paznokcia żelem na formę + zdobienie
-            cena: 80 zł
-        4:
-            name: Utwardzanie naturalnej płytki paznokcia żelem + zdobienie
-            cena: 80 zł
-        5:
-            name: Pedicure wellness
-            cena: 70 zł
-        6:
-            name: Pedicure + żel na paznokcie
-            cena: 100 zł
-        7:
-            name: Pedicure + hybryda na paznokcie
-            cena: 70 zł
-        8:
-            name: Malowanie ozdobne naturalnej płytki
-            cena: 40 zł
-        9:
-            name: Zabieg parafinowy na dłonie i na stopy
-            cena: 60 zł
+    nazwa: Stylzacja paznokci
+    zabiegi:
+      - nazwa: Manicure naturalny (wellness) + masaż dłoni
+        cena: 40 zł
+      - nazwa: Manicure naturalny (wellness) + zabieg parafinowy + masaż dłoni
+        cena: 70 zł
+      - nazwa: Przedłużenie naturalnego paznokcia żelem na formę + zdobienie
+        cena: 80 zł
+      - nazwa: Utwardzanie naturalnej płytki paznokcia żelem + zdobienie
+        cena: 80 zł
+      - nazwa: Pedicure wellness
+        cena: 70 zł
+      - nazwa: Pedicure + żel na paznokcie
+        cena: 100 zł
+      - nazwa: Pedicure + hybryda na paznokcie
+        cena: 70 zł
+      - nazwa: Malowanie ozdobne naturalnej płytki
+        cena: 40 zł
+      - nazwa: Zabieg parafinowy na dłonie i na stopy
+        cena: 60 zł
 endermologia:
-    name: Zabiegi Endermologie na ciało (ok. 50 min.)
-    sub:
-        1:
-            name: 1 zabieg
-            cena: 120 zł
-        2:
-            name: 10 zabiegów
-            cena: 1000 zł
-        3:
-            name: Zabiegi Endermologie na wybraną część (np. brzuch, pośladki, uda ...)
-            cena: 100 zł
-        4:
-            name: kostium
-            cena: 130 zł
+    nazwa: Zabiegi Endermologie na ciało (ok. 50 min.)
+    zabiegi:
+      - nazwa: 1 zabieg
+        cena: 120 zł
+      - nazwa: 10 zabiegów
+        cena: 1000 zł
+      - nazwa: Zabiegi Endermologie na wybraną część (np. brzuch, pośladki, uda ...)
+        cena: 100 zł
+      - nazwa: kostium
+        cena: 130 zł

@@ -1,9 +1,9 @@
 ---
 Title: Studio masażu i smukłej sylwetki
 ---
-![Gabinet Masażu](/kosm/images/masaz/1.jpg)
-![Gabinet Masażu](/kosm/images/masaz/2.jpg)
-![Gabinet Masażu](/kosm/images/masaz/3.jpg)
+![Gabinet Masażu](/images/masaz/1.jpg)
+![Gabinet Masażu](/images/masaz/2.jpg)
+![Gabinet Masażu](/images/masaz/3.jpg)
 ## Masaże
 - hawajski
 - klasyczny ciała
@@ -13,8 +13,8 @@ Title: Studio masażu i smukłej sylwetki
 - limfatyczny
 - kamieniami
 - stemplami
-- Zabiegi
-- Zabieg Czekoladowo-odżywczy
+## Zabiegi
+- Czekoladowo-odżywczy
 - Miodowo-odżywczy
 - Błoto z morza Martwego
 - Refleksologia

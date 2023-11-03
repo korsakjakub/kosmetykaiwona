@@ -1,20 +1,21 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <table style="width:100%" class="pure-table pure-table-horizontal">
-{{ range .Site.Data.cennik }}
-<thead>
-  <tr>
-    <td colspan=2 style="text-align: center">{{ .name }}</td>
-  </tr>
-</thead>
-<tbody>
-    {{ range .sub }}
-      <tr>
-			  <td><a href="/kosm/zabiegi/{{ .href }}">{{ .name }}</a></td>
-				<td>{{ .cena }}</td>
-      </tr>
+  {{ range .Site.Data.cennik }}
+  <thead>
+    <tr>
+      <td colspan=2 style="text-align: center">{{ .nazwa }}</td>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range .zabiegi }}
+    <tr>
+      <td>
+	<a href="/zabiegi/{{ .href }}">{{ .nazwa }}</a></td>
+      <td>{{ .cena }}</td>
+    </tr>
     {{ end }}
-</tbody>
-{{ end }}
+  </tbody>
+  {{ end }}
 </table>
 {{ end }}
