@@ -1,6 +1,6 @@
 <div class="pure-g">
 {{ range .Site.Data.galeria }}
-{{ $url := printf "/kosm/images/galeria/%s" .href }}
+{{ $url := printf "/images/galeria/%s" .href }}
 		<a class="pure-u-1 pure-u-md-1-3" href="{{ $url }}"><img style="max-width:100%" src="{{ $url }}"/></a>
 {{ end }}
 </div>
