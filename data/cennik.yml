@@ -5,16 +5,16 @@ twarz:
         cena: 350 zł
         href: zabiegi-na-twarz
       - nazwa: Zabieg Tradycyjny Thalgo
-        cena: 130 zł
+        cena: 180 zł
         href: zabiegi-na-twarz/zabieg-tradycyjny-thalgo/
       - nazwa: Zabieg Thalgo na okolice oczu
-        cena: 80 zł
+        cena: 120 zł
         href: zabiegi-na-twarz
       - nazwa: Thalgo - Re-Balancing Treatment
-        cena: 120 zł
+        cena: 200 zł
         href: zabiegi-na-twarz/thalgo-re-balancing-treatment/
       - nazwa: Thalgo - Thalgodermyl
-        cena: 140 zł
+        cena: 220 zł
         href: zabiegi-na-twarz/thalgo-thalgodermyl/
       - nazwa: Thalgo - Hydra Moisture Source Treatment
         cena: 180 zł
@@ -29,134 +29,134 @@ twarz:
         cena: 200 zł
         href: zabiegi-na-twarz/thalgo-pure-collagen-velvet-mask/
       - nazwa: Thalgo - Cold Marine Program
-        cena: 150 zł
+        cena: 230 zł
         href: zabiegi-na-twarz/thalgo-cold-marine-program/
       - nazwa: Thalgo - Thalgoderm Mask
-        cena: 150 zł
+        cena: 220 zł
         href: zabiegi-na-twarz/thalgo-thalgoderm-mask/
       - nazwa: Thalgo – M-Ceutic
-        cena: 180 zł
+        cena: 220 zł
         href: zabiegi-na-twarz/
       - nazwa: Thalgo - Thalgolift
-        cena: 130 zł
+        cena: 200 zł
         href: zabiegi-na-twarz/thalgo-thalgolift/
-      - nazwa: Masaż twarzy pędzelkowy
-        cena: 45 zł
+      - nazwa: 
+        cena:
         href: zabiegi-na-twarz/
-      - nazwa: Masaż twarzy stemplami
-        cena: 45 zł
+      - nazwa: 
+        cena: 
         href: zabiegi-na-twarz/
-      - nazwa: Masaż twarzy kamieniami
-        cena: 45 zł
+      - nazwa: 
+        cena: 
         href: zabiegi-na-twarz/
       - nazwa: Henna rzęsy i brwi z regulacją
-        cena: 20 zł
-        href: zabiegi-na-twarz/
-      - nazwa: Henna brwi z regulacją
-        cena: 15 zł
-        href: zabiegi-na-twarz/
-      - nazwa: Depilacja ciepłym woskiem - łydki uda
-        cena: 75 zł
-        href: zabiegi-na-twarz/
-      - nazwa: Depilacja ciepłym woskiem - pachy
-        cena: 40 zł
-        href: zabiegi-na-twarz/
-      - nazwa: Depilacja cieþłym woskiem - bikini
         cena: 50 zł
         href: zabiegi-na-twarz/
+      - nazwa: Henna brwi z regulacją
+        cena: 30 zł
+        href: zabiegi-na-twarz/
+      - nazwa: 
+        cena: 
+        href: zabiegi-na-twarz/
+      - nazwa: 
+        cena: 
+        href: zabiegi-na-twarz/
+      - nazwa: 
+        cena: 
+        href: zabiegi-na-twarz/
       - nazwa: Peeling kawitacyjny
-        cena: 120 zł
+        cena: 150 zł
         href: zabiegi-na-twarz/peeling-kawitacyjny/
       - nazwa: Peeling kwasowy
-        cena: 100-120 zł
+        cena: 150-200 zł
         href: zabiegi-na-twarz/peeling-migdalowy/
       - nazwa: Mikrodermabrazja
-        cena: 150 zł
+        cena: 180 zł
         href: zabiegi-na-twarz/mikrodermabrazja/
       - nazwa: Masaż hawajski
-        cena: 120 zł
+        cena: 280 zł
       - nazwa: Masaż klasyczny - całościowy
-        cena: 100 zł
+        cena: 300 zł 60 min
       - nazwa: Masaż klasyczny - częściowy
-        cena: 80 zł
+        cena: 200 zł 30 min
       - nazwa: Masaż relaksacyjny
-        cena: 120 zł
+        cena: 200 zł 60 min
       - nazwa: Masaż wyszczuplający
-        cena: 60 zł
+        cena: 150 zł 30 min
       - nazwa: Masaż leczniczy
-        cena: 80 zł
+        cena: 150 zł 30 min
       - nazwa: Masaż limfatyczny
-        cena: 80zł - 120zł
+        cena: 200zł
       - nazwa: Masaż kamieniami
-        cena: 100 zł
+        cena: 300 zł
       - nazwa: Zabieg czekoladowo - odżywczy
-        cena: 150 zł
+        cena: 300 zł
       - nazwa: Zabieg miodowy
-        cena: 200 zł
+        cena: 300zł
       - nazwa: Błoto z morza Martwego
-        cena: 190 zł
+        cena: 300 zł
       - nazwa: Reflexologia
         cena: 160 zł
       - nazwa: Zabieg Algowy - Thalgo
         cena: 200 zł
       - nazwa: Zabieg Termalny - Borowinowy
-        cena: 120 zł
+        cena: 250zł
       - nazwa: Peeling (kawowy, cukrowy, owocowy, czekoladowy, borowinowy)
-        cena: 60 - 80 zł
+        cena: 150 zł
       - nazwa: Zabieg odmładzający i rozświetlający ciało - koloidalne złoto	
-        cena: 150 zł
+        cena: 180 zł
       - nazwa: Zabieg ujędrniający i modelujący biust
-        cena: 70 zł
+        cena: 100 zł
       - nazwa: Zabieg czerwone wino - zabieg odmładzająco-ujędrniający
-        cena: 150 zł
+        cena: 180zł
 fale-radiowe:
     nazwa: Fale radiowe
     zabiegi:
       - nazwa: Lifting wokół oczu
-        cena: 80 zł
-      - nazwa: Lifting twarzy
-        cena: 160 zł
-      - nazwa: Lifting twarzy, szyi, dekoltu
-        cena: 180 zł
-      - nazwa: Pojędrnienie dekoltu
-        cena: 80 zł
-      - nazwa: Wyszczuplenie, pojędrnienie brzucha
-        cena: 80 zł
-      - nazwa: Redukcja cellulitu na udach
         cena: 100 zł
-      - nazwa: Uda + pośladki
+      - nazwa: Lifting twarzy
+        cena: 220 zł
+      - nazwa: Lifting twarzy, szyi, dekoltu
+        cena: 250 zł
+      - nazwa: Pojędrnienie dekoltu
+        cena: 100 zł
+      - nazwa: Wyszczuplenie, pojędrnienie brzucha
+        cena: 100zł
+      - nazwa: Redukcja cellulitu na udach
         cena: 150 zł
+      - nazwa: Uda + pośladki
+        cena: 180 zł
       - nazwa: Ramiona
         cena: 100 zł
 
 paznokcie:
     nazwa: Stylzacja paznokci
     zabiegi:
-      - nazwa: Manicure naturalny (wellness) + masaż dłoni
-        cena: 40 zł
-      - nazwa: Manicure naturalny (wellness) + zabieg parafinowy + masaż dłoni
-        cena: 70 zł
+      - nazwa: 
+        cena: 
+      - nazwa: 
+        cena: 
       - nazwa: Przedłużenie naturalnego paznokcia żelem na formę + zdobienie
-        cena: 80 zł
+        cena: 130 zł
       - nazwa: Utwardzanie naturalnej płytki paznokcia żelem + zdobienie
-        cena: 80 zł
+        cena: 120 zł
       - nazwa: Pedicure wellness
-        cena: 70 zł
+        cena: 100zł
       - nazwa: Pedicure + żel na paznokcie
-        cena: 100 zł
+        cena: 120 zł
       - nazwa: Pedicure + hybryda na paznokcie
-        cena: 100 zł
-      - nazwa: Malowanie ozdobne naturalnej płytki
-        cena: 40 zł
-      - nazwa: Zabieg parafinowy na dłonie i na stopy
+        cena: 120 zł
+      - nazwa: Malowanie naturalnej płytki
         cena: 60 zł
+      - nazwa: Zabieg parafinowy na dłonie i na stopy
+        cena: 80 zł
 endermologia:
     nazwa: Zabiegi Endermologie na ciało (ok. 50 min.)
     zabiegi:
       - nazwa: 1 zabieg
-        cena: 120 zł
+        cena: 150 zł
       - nazwa: 10 zabiegów
-        cena: 1000 zł
+        cena: 1300 zł
       - nazwa: Zabiegi Endermologie na wybraną część (np. brzuch, pośladki, uda ...)
         cena: 100 zł
       - nazwa: kostium
