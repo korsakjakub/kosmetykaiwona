@@ -32,14 +32,10 @@ Na poziomie fizycznym masaż Lomi Lomi Nui działa odmładzająco, pobudzając u
 
 Na poziomie emocjonalnym masaż ten pomaga się zrelaksować, "odpocząć psychicznie", porzucić problemy dnia codziennego i wyciszyć się, dając spokój i komfort psychiczny.
 
-CENA: 120zł (Promocyjna cena za luksusowy masaż)
 
 ## Masaż klasyczny
 Łączy techniki masażu leczniczego i relaksacyjnego. Najczęściej wykonywany, mający na celu utrzymanie organizmu na stałym dobrym poziomie fizyczno-psychicznym. Znana i najbardziej popularna technika masażu. Zapewnia doskonałe i wręcz natychmiastowe rozluźnienie mięśni, może być stosowana również leczniczo i ze wskazaniem na rehabilitację. Trwałe efekty zagwarantuje seria zabiegów wykonanych zarówno całościowo jak i na poszczególne partie ciała. Masażem klasycznym nazywamy zespół różnych zabiegów manualnych, które w sposób mechaniczny, przez powierzchnię ciała działają na skórę, tkankę podskórną, mięśnie, torebki i wiązadła stawowe, a także w postaci zmian odruchowych na układ krążenia, nerwowy, wewnątrzwydzielniczy, do narządów wewnętrznych włącznie. Do masażu klasycznego należą zabiegi, które mają na celu poprawienie psychofizycznego stanu pacjenta, znajdują one zastosowanie w zapobieganiu i leczeniu wielu chorób z dziedziny ortopedii, neurologii, pediatrii, ginekologii ora chorób internistycznych. Masaż klasyczny uwzględnia odpowiednie ułożenie pacjenta, zapewniając rozluźnienie mięśni poddawanych masażowi. W zależności od sytuacji masaż klasyczny może być wykonywany w formie zabiegu całościowego lub częściowego. W tym masażu wykorzystuje się nie tylko bezpośrednie oddziaływanie bodźców mechanicznych na tkanki, ale również odruchowe zmiany zachodzące w ustroju na drodze neuroodruchowej. To najpopularniejszy masaż, który w zależności od formy, intensywności może być leczniczy, relaksacyjny, pobudzający. Stosowane techniki oddziaływają bezpośrednio na skórę, tkankę podskórną, mięśnie, więzadła, torebki stawowe a także bezpośrednio na układ krwionośny, nerwowy i limfatyczny. Masażem klasycznym nazywamy techniki wywierające wpływ na tkanki ustroju człowieka. Celem masażu klasycznego jest zadziałanie na układ ruchu , skórę, tkankę łączną, tkankę tłuszczową, zakończenia nerwowe w skórze a także na układy krwionośny i chłonny. Pod wpływem masażu naczynia skórne rozszerzają się, przez co poprawia się odżywianie skóry oraz znajdujących się w niej gruczołów. Masaż przyspiesza obieg krwi i chłonki w naczyniach skórnych, dzięki czemu z jednej strony następuje bardziej aktywne dostarczanie tkankom i organom masowanego odcinka substancji odżywczych a z drugiej szybsze wydalanie produktów przemiany materii. Masaż klasyczny zwiększa szybkość usuwania z organizmu produktów rozpadu, likwidację objawów zastoinowych, wchłanianie obrzęków a także odpływ krwi żylnej.
 
-CENA:
-- całościowy 100 zł
-- częściowy 50 zł
 
 ## Masaż relaksacyjny
 pobudza mięśnie, skórę i układ krążenia, a zarazem wspaniale oddziałuje na układ nerwowy - równoważy wysyłane przez ciało negatywne reakcje na stres, likwiduje mimowolne napięcie mięśni, przywraca prawidłowy rytm serca, właściwe krążenie i ciśnienie krwi, a nawet pomaga w walce z bezsennością.
@@ -53,24 +49,17 @@ Umiejętność relaksowania się jest bardzo cenna, szczególnie dzisiaj, kiedy 
 
 Świece, aromatyczne zapachy, kadzidełko, pachnące olejki, ciepła pościel jest to nie tylko obecna moda na relaksację, ale jeden z podstawowych warunków, aby masaż mógł się odbyć i aby klient był z niego zadowolony. W tej chwili w praktyce terapeutycznej spotykamy się z sytuacjami, iż masaż relaksacyjny jest także wstępem do innych zabiegów kosmetyczno - terapeutycznych. Jest to taki filar na którym opiera się cała technika relaksacji, wszelkie zabiegi, którym się poddajemy aby się zrelaksować. Prosty przykład: Sluchamy muzyki aby się odprężyć. W momencie, gdy zostanie nam zrobiony taki masaż zrelaksujemy się jeszcze mocniej jeszcze intensywniej i ....trwalej.
 
-CENA 120 zł
 
 ## Masaż wyszczuplający
 Masaż ujędrniający to forma masażu dzięki której tkanki, przede wszystkim tkanka łączna, uzyskują większe napięcie. Uzyskujemy przez to efekt estetyczny - mniejszej objętości tkanek. Bardzo pomocny przy odchudzaniu, zapobiega powstawaniu fałdów skórnych - uzyskujemy jędrną tkankę skórną. Modelowanie sylwetki ciała dzięki wykorzystaniu specyficznych chwytów masażu następuje rozbicie tkanki tłuszczowej. Przyspieszenie procesów metabolicznych, zachodzących w komórkach pod wpływem masażu, przyspiesz spalanie tłuszczy. Efekt modelowania można zwiększyć przez detoksykację i zastosowanie preparatów do modelowania sylwetki ciała. Wykonywany jest w oparciu o całościowy masaż leczniczy, łącząc w sobie techniki masażu klasycznego, izometrycznego i punktowego. Polecany szczególnie w celu likwidacji tkanki tłuszczowej z okolic ud, bioder i pośladków, przyczyniając się również do ogólnego spadku wagi.
 
 Dodatkowo proponujemy masaż odchudzający, likwidujący cellulit wykonany BAŃKĄ CHIŃSKA w serii 10 zabiegów.
 
-CENA: 60zł - modelowanie sylwetki wybranych części ciała
-
 ## Masaż leczniczy
 Wpływa korzystnie na stan czynnościowy odpowiednich części ciała. Polega na pobudzaniu zakończeń nerwowych związanych z określonym narządem. Głównym celem jest leczenie pewnych zaburzeń organizmu poprzez zabiegi manualne. Każdy taki masaż może być poprzedzany zabiegami fizykalnymi np. naświetlaniem lampą Solux, okłady kompresem rozgrzewającym czy też wykonywany z użyciem środków wspomagających zabieg np. różnego rodzaju maści lecznicze działające przeciwbólowo, przeciwzapalnie i rozgrzewająco.
 
-CENA: 80zł (w cenie światłolecznictwo, rozgrzewające kompresy borowinowe)
-
 ## Masaż limfatyczny
 Znaczna grupa chorób narządów wewnętrznych jest spowodowana zaburzeniami w krążeniu limfy. Celem masażu limfatycznego jest usprawnienie krążenia chłonki w układzie limfatycznym, tzn. od naczyń chłonnych włosowatych do ujść żylnych. Osiągamy to w sposób mechaniczny poprzez przepchnięcie chłonki i udrożnienie węzłów chłonnych. Efektami prawidłowo przeprowadzonych drenaży powinny być między innymi: poprawa warunków do produkcji limfocytów, transportu wody i soli mineralnych, zwalczanie bakterii oraz następstw zauważalnych na zewnątrz, czyli likwidacja obrzęków. Aby do takiego stanu doprowadzić, należy wykonać drenaż limfatyczny zgodnie z określonymi zasadami i z zastosowaniem następujących technik: głaskanie, rozcierania, ugniatania. Stosowane techniki powinny mieć charakter wypychający, aby do takiego stanu doprowadzić, należy wykonać drenaż limfatyczny zgodnie z określonymi zasadami i z zastosowaniem następujących technik : głaskania, rozcierania, ugniatania. Stosowane techniki powinny mieć charakter wypychający, czyli każda z nich - poprzez odpowiednio rozłożoną siłę nacisku - winna spowodować przepchnięcie limfy we właściwym kierunku. Siła nacisku na tkanki wzrasta w kierunku wykonywanego chwytu i nie powinna być przyczyną zbytniego wzrostu temperatury tkanek. Należy masować precyzyjnie, miękko i płynnie.
-
-CENA: od 80zł do 120zł
 
 ## Masaż kamieniami
 Jeśli po długim i męczącym dniu marzysz o relaksie i wyciszeniu, wybierz się do salonu kosmetycznego na masaż kamieniami. Inspirowany szamańskimi praktykami medycznymi, przywróci ci szybko nie tylko nadwątloną równowagę psychiczną, ale też fizyczną. Będziecie Państwo mogli z nową energią zmierzyć się z kolejnym dniem.
@@ -108,7 +97,7 @@ Masaż przeprowadza się na nagim, albo okrytym ręcznikiem ciele. Masażysta ro
 
 ### Czas i koszt zabiegu
 
-Zabieg trwa ok. 90 minut i nie ma wskazań, co do częstotliwości jego stosowania. Już jeden wystarczy, by poczuć efekty. Koszt: 150 zł.
+Zabieg trwa ok. 90 minut i nie ma wskazań, co do częstotliwości jego stosowania. Już jeden wystarczy, by poczuć efekty. 
 
 ## Masaż stemplami
 Masaż stemplami wywodzi się z tajskiej szkoły masażu. Przywraca nie tylko pogodę ducha i poczucie harmonii, ale też poprawia wygląd ciała. Jeśli marzysz o dalekich wczasach, a nie możesz sobie na nie pozwolić, zafunduj sobie odrobinę azjatyckiego luksusu w salonie Atelier Urody!!
@@ -126,8 +115,6 @@ trawa cytrynowa - uspokaja, działa przeciwzapalnie, antybakteryjnie, pomocna w 
 liście eukaliptusa - działają łagodnie pobudzająco, przeciwbólowo, antyseptycznie.
 
 Stemple macza się w specjalnym wonnym oleju i dokładnie masuje nim punktowo całe ciało. Olej jest gorący, co wzmacnia odczucia, gdyż rozgrzewa wszystkie "stemplowane" punkty ciała. Na początku, gdy stemple są mocno rozgrzane, przykłada się je do skóry na kilka sekund. Wraz z ich ochładzaniem się, wydłuża się czas "stemplowania" ciała.
-
-CENA: 100zł
 
 ## Zabieg czekoladowo - odżywczy
 DZIAŁANIE :
@@ -147,8 +134,6 @@ DZIAŁANIE :
 -	zmycie ciała ciepła wodą z dodatkiem mleczka czekoladowego
 -	masaż ciała olejkiem czekoladowym
 -	wklepanie masełka czekoladowego
-
-Czas i cena zabiegu: 90-120min- 150zł
 
 CIEKAWOSTKI:
 
@@ -191,7 +176,6 @@ Regulując płyny ustrojowe, wzmacnia osłabione nadwagą mięśnie i stawy. Roz
 - wzmocnienie układu nerwowego (nerwice, stresy, apatie)
 - oczyszczenie i regenerację skóry, likwiduje cellulit, rozstępy skóry pociążowe i po odchudzaniu, zmniejsza blizny po zabiegach i operacjach
 - przyśpiesza spalanie tkanki tłuszczowej
-CENA: 200zł
 
 ## Błoto z morza Martwego
 Błoto Morza Martwego posiada właściwości terapeutyczne. Wykazuje ono działanie rozkurczowe, znieczulające i przeciwzapalne, reguluje tętno, obniża ciśnienie tętnicze krwi, rozluźnia mięśnie, uspokaja system nerwowy, wykazuje pozytywny wpływ na organizm. Na skutek tego, że błotna aplikacja ma z reguły wyższą temperaturę niż temperatura ciała wzmacnia ona mikrocyrkulację skóry, mięśni i organów wewnętrznych, co osłabia procesy zapalne i nasila odżywcze.
@@ -207,8 +191,6 @@ Błoto wspomaga walkę z nadwagą: przy nałożeniu błotnych aplikacji na "stre
 Oczyszczamy skórę przy pomocy złuszczającego żelu lub peelingu do ciała, podgrzewamy błoto do temp. 44-48 st. C, nakładamy na ciało, owijamy folią polietylenową. Klient leży spokojnie w ciepłym pomieszczeniu 20-30 minut. Następnie zmywamy błoto ciepłą wodą.
 
 Głębokie oczyszczanie organizmu z toksyn: zachodzi jeśli posmaruje się ciało od głowy ( razem z włosami ) do nóg i pozostawi na 15-20 minut. Błoto posiada zdolności wysysania produktów rozpadu nie tylko ze skóry, ale i z kości i stawów.
-
-CENA: 150zł
 
 ## Refleksologia
 Jeśli nie masz czasu, jesteś ciągle w biegu a czujesz dopadający Cię stres. Twoje samopoczucie pogarsza się, a efektywność pracy spada. Możesz zafundować swojemu organizmowi energetyczny zastrzyk, jakim jest refleksologia! Podczas 1 wizyty możesz skorzystać z refleksologii stóp, twarzy i masażu kręgosłupa! Taka dawka postawi Cię błyskawicznie na nogi! Nie zwlekaj, nie poddawaj się stresowi! Już dziś umów się na zabieg!
@@ -272,8 +254,6 @@ Stopa ludzka zawiera zakończenie przeszło 7200 nerwów, które mają bezpośre
 -	depresja
 -	porażenia i niedowłady itp.
 
-Czas i cena zabiegu: 60min - 60zł
-
 ## Światłolecznictwo
 Światłolecznictwo jest ważne dla życia człowieka: pobudza naturalne procesy regeneracyjne, stymulujące przemianę materii komórki, wzmacnia układ immunologiczny i poprawia krążenie krwi. Każdy zna wpływ światła: w jasne słone czne dni czujemy się z reguły lepiej niż w dni posępne, zasnute chmurami.
 
@@ -306,21 +286,13 @@ Zastosowania:
 ## Zabieg Algowy - Thalgo
 Zabieg antycellulitowy, modelujący sylwetkę
 
-CENA: 200zł
-
 ## Zabieg Termalne - Borowinowe
 Masaże o określonym działaniu terapeutycznym. Sprzyjają głębokiemu odprężeniu, wspomagają eliminację stresów i napięć. Działanie detoksykująco, natycelluitowo oraz witalizująco a przede wszystkim leczniczo na mięśnie i stawy
 
-CENA: 120zł
-
 ## Peeling (kawowy, cykrowy, owocowy, czekoladowy, borowinowy)
-CENA: 60 - 80zł
 
 ## ZABIEG ODMŁADZAJĄCY I ROZŚWIETLAJĄCY CIAŁO - koloidalne złoto
-CENA: 150 zł
 
 ## ZABIEG UJĘDRNIAJĄCY I MODELUJĄCY BIUST
-CENA: 70 zł
 
 ## ZABIEG CZERWONE WINO - zabieg odmładzająco-ujędrniający
-CENA: 150 zł
