@@ -28,7 +28,3 @@ Metoda pozwala na bezinwazyjne wprowadzanie mezokoktajlii w głąb naskórka, kt
 ### Wszystko o kartridżach / igłach do mezoterapii mikroigłowej :
 
 Opatentowany, zintegrowany system igieł z nasadką zapewnia zachowanie najwyższych standardów bezpieczeństwa i higieny. Wewnętrzna membrana utrzymuje igłę w sterylnej czystości. Końcówki TRI-M wykonane są ze stali nierdzewnej pokrytej z zewnątrz srebrem powodującym działanie antyalergiczne. Dla zapewnienia bezpieczeństwa, jednorazowe kartridże pakowane są w sterylnym pomieszczeniu oraz dodatkowo sterylizowane tlenkiem etylenu. Każdy kartridż posiada numer seryjny. Gdy kartridż jest odłączony, igły automatycznie chowają się w nasadce. Zapobiega to przypadkowemu ukłuciu się igłami i pozwala uniknąć możliwej infekcji wirusami wywołującymi groźne choroby.
-
-Cena: 350,00 / 1 zabieg
-
-w serii: 900,00 / 3 zabiegi
