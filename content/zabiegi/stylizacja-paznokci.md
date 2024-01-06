@@ -17,13 +17,8 @@ Metoda żelowa jest umiarkowanie łatwa i przyjemna w wykonaniu. Masę nakłada 
 Tipsy żelowe uzupełnia się co 3 ÷ 4 tygodnie, w zależności od prędkości wzrostu naturalnej płytki. Należy pamiętać aby długość paznokcia dostosować do codziennych obowiązków tak, aby nie utrudniały nam prac w naszych codziennych obowiązkach.
 
 W ofercie mamy następujące usługi:
-
--	manicure naturalny, (manicure wellness) + masaż dłoni cena: 40zł
--	manicure naturalny, (wellness)+ zabieg parafinowy + masaż dłoni cena: 70zł
--	malowanie ozdobnenaturalnej płytki cena: 15zł
--	przedłużenie naturalnego paznokcia żelem na tips + zdobienie cena: 80zł
--	przedłużenie naturalnego paznokcia żelem na formę + zdobienie cena: 80zł
--	utwardzenie naturalnej płytki	paznokcia żelem + zdobienie cena: 80zł
--	pedicure wellness	cena: 70zł
--	pedicure wellness żel cena: 100zł
--	zabieg parafinowy na dłonie i na stopy cena: 60zł
+-	przedłużenie naturalnego paznokcia żelem na tips + zdobienie 
+-	przedłużenie naturalnego paznokcia żelem na formę + zdobienie 
+-	utwardzenie naturalnej płytki	paznokcia żelem + zdobienie 
+-	pedicure wellness	+ hybryda
+-	zabieg parafinowy na dłonie i na stopy 
