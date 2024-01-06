@@ -62,8 +62,4 @@ Podciąnienie w samobieżnej głowicy zabiegowej zasysa fałdę skóry, która j
 
 Zabiegi podtrzymujące jeden raz w miesiącu.
 
-## Cena
-- 1 zabieg 100,00 zł
-- 10 zabiegów 800,00 zł
-- 20 zabiegów 1500,00 zł
-- kostium 100,00 zł
+
